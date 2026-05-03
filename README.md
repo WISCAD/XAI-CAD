@@ -6,8 +6,11 @@ The goal of this project is to utilize Explainable Artificial Intelligence (XAI)
 
 **Codes for Download:**
 
-[Machine Learning for Automatic Test Pattern Generation
-](https://github.com/lzzh97/NN-for-ATPG)
+[BERT-HIT: LLM-based Hardware Trojan detection and Evasion]()
+
+[ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering]()
+
+[Machine Learning for Automatic Test Pattern Generation](https://github.com/lzzh97/NN-for-ATPG)
 
 [Explainable Power-Grid Analysis and Optimization](https://github.com/lzzh97/Static-IR-Drop-Prediction)
 
