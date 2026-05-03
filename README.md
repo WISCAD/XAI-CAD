@@ -15,6 +15,7 @@ The goal of this project is to utilize Explainable Artificial Intelligence (XAI)
 [Explainable Power-Grid Analysis and Optimization](https://github.com/lzzh97/Static-IR-Drop-Prediction)
 
 **Related Publications:**
+
 Lizi Zhang, Azadeh Davoodi, Rasit Onur Topaloglu, "ReBERT: LLM for Gate-Level to Word-Level Reverse Engineering", IEEE/ACM Design, Automation & Test in Europe Conference  ·  31 Mar 2025 
 
 Lizi Zhang, Navid Nader Tehrani, Azadeh Davoodi, Rasit Onur Topaloglu, "Late Breaking Results -- Feature-Aware Trojan Alteration to Evade ML-Based Detection", IEEE VLSI Test Symposium  ·  27 Apr 2026  
